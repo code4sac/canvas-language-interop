@@ -1,4 +1,5 @@
 # Canvas Language Interop
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/code4sac/canvas-language-interop/badge)](https://scorecard.dev/viewer/?uri=github.com/code4sac/canvas-language-interop)
 
 Introduction
 -------
