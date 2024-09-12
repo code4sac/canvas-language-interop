@@ -20,7 +20,7 @@ We track work in progress using [Github Projects](https://github.com/orgs/code4s
 
 Communications channels
 -------
-Discussion Forum: https://github.com/hisergiorojas/canvas-language-Interop/discussions
+Discussion Forum: [Github Discussion](https://github.com/code4sac/canvas-language-interop/discussions)
 
 Weekly meetings are on held on [Open Sacramento Zep](https://zep.us/play/yaOaxV) (every  Wednesday at 6:30pm pst, Password: sacrafresno)
 
